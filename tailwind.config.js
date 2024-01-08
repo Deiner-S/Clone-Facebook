@@ -22,7 +22,12 @@ module.exports = {
         'main-green':'#42B72A',
         'main-green-hover':'#36A420'
 
-      }
+      },
+      screens: {
+        'tbs': '600px',
+        'tbm': '900px',
+        'tbl': '1200'
+      },
     },
   },
   plugins: [],
